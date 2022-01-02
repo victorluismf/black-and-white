@@ -3,9 +3,11 @@
     <br>
 </h1>
 
+<h2 align="center">
+    Victor Luis - Black & White
+</h2>
+
 <h4 align="center">
-  <p>Victor Luis - Black & White</p>
-  
   <p>Tecnologias: JavaScript, HTML, CSS e React JS.</p>
     
   <p>Responsivo: Parcialmente.</p>
